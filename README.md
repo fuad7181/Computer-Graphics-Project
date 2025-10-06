@@ -1,3 +1,2 @@
-#Computer Graphics Project
-
-#Bangladesh Tourist Spots (MUSEUM)
+# Computer Graphics Project-
+Bangladesh Tourist Spots (MUSEUM)
