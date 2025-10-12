@@ -1,5 +1,5 @@
 # Computer Graphics Project
-Bangladesh Tourist Spots (MUSEUM)
+# Bangladesh Tourist Spots (MUSEUM)
 
 When the user runs the project file “Graphics Project Final.cbp” in Code::Blocks and presses Build and Run (F9), the program opens with a default display screen showing the project title, course information, and group members’ contributions. From there, the user can explore various museum scenes using the keyboard. Pressing ‘1’ displays the National Museum, ‘2’ shows the Sonargaon Museum, ‘3’ presents the Science Museum, ‘4’ opens the Military Museum, and ‘5’ displays the Liberation War Museum. Each scene features unique visual elements, animations, and environmental effects that represent major tourist spots of Bangladesh. At any point, the user can press ‘ESC’ to exit the program. This interactive system allows smooth scene transitions and creates an engaging visual experience for users.
 
